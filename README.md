@@ -1,4 +1,5 @@
 # Trilium Notes
+## 修复了ckeditor不能粘贴wps的问题
 
 [English](https://github.com/zadam/trilium/blob/master/README.md) | [Chinese](https://github.com/zadam/trilium/blob/master/README-ZH_CN.md) | [Russian](https://github.com/zadam/trilium/blob/master/README.ru.md)
 
